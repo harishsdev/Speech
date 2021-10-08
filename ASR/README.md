@@ -1,4 +1,7 @@
 # Speaker-Recognition
+
+Credits to https://github.com/orchidas
+
 Automatic Speaker Recognition algorithms in Python
 
 This repository contains Python programs that can be used for Automatic Speaker Recognition. ASR is done by extracting MFCCs and LPCs from each speaker and then forming a speaker-specific codebook
